@@ -1,0 +1,20 @@
+step 1) npm init -y
+step 2) npm i typescript
+step 3) tsc --init
+step 4) copy tsconfig.json file
+step 5) npm i cors helmet hpp cookie-session compression express-async-errors http-status-codes
+step 6) npm i --save-dev @types/cors
+step 7) npm i --save-dev @types/hpp
+step 8) npm i --save-dev @types/cookie-session
+step 9) npm i --save-dev @types/compression
+step 10) npm i -g nodemon
+step 11) npm i ts-node -D
+step 12) npm install --save-dev tsconfig-paths
+step 13) set dev in script : "nodemon -r tsconfig-paths/register src/app.ts"
+step 14) npm i mongoose
+step 15) npm i dotenv
+step 15) npm i @socket.io/redis-adapter
+step 15) npm i redis
+step 15) npm i socket.io
+step 16) npm i bunyan
+step 17) npm i -D eslint eslint-config-prettier prettier @typescript-eslint/eslint-plugin @typescript-eslint/parser
