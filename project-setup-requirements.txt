@@ -18,3 +18,9 @@ step 15) npm i redis
 step 15) npm i socket.io
 step 16) npm i bunyan
 step 17) npm i -D eslint eslint-config-prettier prettier @typescript-eslint/eslint-plugin @typescript-eslint/parser
+step 18) npm i ttypescript typescript-transform-paths
+step 19) npm uninstall ttypescript
+step 20) npm install --save-dev tsc-alias
+step 21) pest in package.json build script "tsc --project tsconfig.json && tsc-alias -p tsconfig.json"
+step 22) npm i cloudinary
+step 23) npm i joi
